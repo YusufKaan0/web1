@@ -1,0 +1,18 @@
+﻿body {
+    margin-left:400px;
+}
+
+
+.button {
+    -webkit-transition-duration: 0.4s; /* Safari */
+
+    transition-duration: 0.4s;
+    padding: 14px 46px;
+    border-radius: 14px
+}
+
+    .button:hover {
+        background-color: #555555;
+
+        color: white;
+    }
